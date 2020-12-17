@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="device/sony/suzuran" name="LineageOS/android_device_sony_suzuran" revision="cm-14.1" />
+	<project path="kernel/sony/msm8994" name="LineageOS/android_kernel_sony_msm8994" revision="cm-14.1" />
+	<project path="device/sony/kitakami-common" name="LineageOS/android_device_sony_kitakami-common" revision="cm-14.1" />
+	<project path="device/sony/common" name="LineageOS/android_device_sony_common" revision="cm-14.1" />
+	<!--project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" /-->
+	<project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" revision="cm-14.1" />
+	<project path="hardware/broadcom/fm" name="LineageOS/android_hardware_broadcom_fm" revision="cm-14.1" />
+	
+	<project path="rpm/"name="devellevel/droid-hal-suzuran" revision="master" />
+	<project path="hybris/droid-configs"name="devellevel/droid-config-suzuran" revision="master" />
+	<project path="hybris/droid-hal-version-suzuran"name="devellevel/droid-hal-version-suzuran" revision="master" />
+</manifest>
